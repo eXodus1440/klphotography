@@ -2,7 +2,7 @@
 layout: post
 title:  "Canon 1DX vs Canon R5 for Wildlife Photography"
 date:   2021-08-27 18:00:00 +0100
-image:  Kingfisher-Review-R5_3.jpeg
+image:  Kingfisher-Review-R5_1.jpeg
 tags:   Wildlife Photography
 ---
 
@@ -11,6 +11,8 @@ In this customer case study, we see two major players going head-to-head – the
 My name is Karina and I am a keen animal and wildlife photographer – with a huge passion for big (and small) cats.  I primarily shoot on my DSLR bodies, the Canon EOS-1D X Mark II and Canon EOS-7D Mark II with either the Canon EF 70-200mm f/2.8L IS II USM or EF 100-400mm f/4.5-5.6L IS II USM lens. 
 
 Some photography friends of mine have recently shared positive feedback and enthusiasm for Canon’s mirrorless range, so I wanted to compare the Canon R5 with my DSLRs on a real-life example – a Kingfisher workshop. 
+
+![]({{site.baseurl}}/img/Kingfisher-Review-R5_3.jpeg)
 
 My main objective was to see how the autofocus would compare with the DSLR (I used the Canon EOS-1D X Mark II for the comparison) and whether there was any image distortion given I was using a Canon converter for the mirrorless R system. 
 
